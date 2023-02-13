@@ -18,7 +18,7 @@ Before you can run the scripts, you need to make sure that you have the followin
 ### Usage
 
 To run a script, simply navigate to the script's directory in the terminal and run the following command:
-`python script_name.py`
+`python3 script_name.py`
 
 Replace `script_name.py` with the name of the script you want to run.
 
