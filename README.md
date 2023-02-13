@@ -30,5 +30,3 @@ Create a separate directory for the script and add a README file as per the form
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
-
-![screenshot-placeholder](https://via.placeholder.com/700x400)
