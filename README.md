@@ -22,6 +22,11 @@ To run a script, simply navigate to the script's directory in the terminal and r
 
 Replace `script_name.py` with the name of the script you want to run.
 
+## Dependencies
+
+The required packages are listed in the `requirements.txt` file. To install the dependencies, run the following command:
+`pip install -r requirements.txt`
+
 ## Contributing
 
 If you would like to contribute to this repository, please follow these [steps](CONTRIBUTING.md).

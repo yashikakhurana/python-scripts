@@ -2,6 +2,14 @@
 
 We welcome and appreciate contributions to this repository of Python scripts. Whether you're fixing a bug, adding a new feature, or improving documentation, we're grateful for your help!
 
+## Code Formatting
+
+We use [Black](https://github.com/psf/black) to enforce a consistent code style. To run the formatter, make sure you have Black installed and then run the following command in the root directory of the repository:
+
+`make format`
+
+Please make sure that all code changes are formatted with Black before submitting a pull request.
+
 Here is a step-by-step guide for contributing to the `python-scripts` repository:
 
 1. **Fork the repository:** Visit the `python-scripts` repository at https://github.com/yashikakhurana/python-scripts, click the "Fork" button in the top right corner, and choose the account where you want to fork the repository.
