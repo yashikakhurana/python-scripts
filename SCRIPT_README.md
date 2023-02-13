@@ -30,8 +30,8 @@ Expected Output:
 
 ## Built With
 
-- [Python](https://www.python.org/) - The programming language used
-- [PACKAGE_NAME](LINK_TO_PACKAGE) - Dependency
+- `[Python](https://www.python.org/) - The programming language used`
+- `[PACKAGE_NAME](LINK_TO_PACKAGE) - Dependency`
 
 ## Contributing
 
@@ -39,7 +39,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Author
 
-- [YOUR_NAME](LINK_TO_YOUR_PROFILE) - Initial work
+- `[YOUR_NAME](LINK_TO_YOUR_PROFILE) - Initial work`
 
 ## License
 
