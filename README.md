@@ -12,7 +12,7 @@ These instructions will help you set up the repository on your local machine and
 
 Before you can run the scripts, you need to make sure that you have the following software installed on your system:
 
-- Python 3 (recommended version: 3.8 or later)
+- [Python 3](https://www.python.org/downloads/) (recommended version: 3.8 or later)
 - Pip (for installing the required packages)
 
 ### Usage
