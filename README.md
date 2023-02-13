@@ -1,5 +1,7 @@
 # Python Scripts
 
+![Python](https://img.shields.io/badge/Python-3-blue)
+
 This repository contains a collection of various Python scripts that perform different tasks. The scripts are designed to be simple and straightforward, making them easy to understand and modify.
 
 ## Getting Started
@@ -20,19 +22,13 @@ To run a script, simply navigate to the script's directory in the terminal and r
 
 Replace `script_name.py` with the name of the script you want to run.
 
-## Scripts
-
-The following is a brief description of the scripts included in this repository:
-
-- `script_1.py`: performs task X
-- `script_2.py`: performs task Y
-- `script_3.py`: performs task Z
-
 ## Contributing
 
-If you would like to contribute to this repository, please follow these [steps](CONTRIBUTING.md)
-Create a separate directory for the script and add Readme as per format defined [here](SCRIPT_README.md).
+If you would like to contribute to this repository, please follow these [steps](CONTRIBUTING.md).
+Create a separate directory for the script and add a README file as per the format defined [here](SCRIPT_README.md).
 
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
+
+![screenshot-placeholder](https://via.placeholder.com/700x400)
