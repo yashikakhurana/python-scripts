@@ -16,8 +16,6 @@ The script requires the following dependencies:
 
 You can install the required dependencies by running the following command:
 
-ruby
-
 `# pip3 install webbrowser`
 `# brew install python-tk`
 
@@ -27,8 +25,6 @@ To run the script, follow these steps:
 
     Save a text file with one URL per line.
     Run the script using the following command:
-
-shell
 
 $ python link_opener.py
 It will load the window and then you can select the path to your file.
